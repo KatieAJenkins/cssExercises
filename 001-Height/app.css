@@ -1,0 +1,15 @@
+div {
+  background: #222;
+  margin-bottom: 20px;
+  color: white;
+}
+
+img {
+  max-width: 100%;
+}
+
+.outside {
+  height: 150px;
+}
+
+/* Code Under This Line */
